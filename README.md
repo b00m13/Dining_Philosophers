@@ -1,1 +1,1 @@
-# Dining_Philosophers
+# Dining Philosophers Problem
